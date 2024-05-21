@@ -1,0 +1,11 @@
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\bin\Debug\To The Day Budgeting App.exe.config
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\bin\Debug\To The Day Budgeting App.exe
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\bin\Debug\To The Day Budgeting App.pdb
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To The Day Budgeting App.csproj.AssemblyReference.cache
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To_The_Day_Budgeting_App.Properties.Resources.resources
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To The Day Budgeting App.csproj.GenerateResource.cache
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To The Day Budgeting App.csproj.CoreCompileInputs.cache
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To The Day Budgeting App.exe
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To The Day Budgeting App.pdb
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To_The_Day_Budgeting_App.Form2.resources
+C:\Users\donov\source\repos\To The Day Budgeting App\To The Day Budgeting App\obj\Debug\To_The_Day_Budgeting_App.Form1.resources

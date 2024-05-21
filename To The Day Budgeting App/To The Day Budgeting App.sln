@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To The Day Budgeting App", "To The Day Budgeting App\To The Day Budgeting App.csproj", "{5F958D44-79BE-472E-9CDB-C666CA413672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F958D44-79BE-472E-9CDB-C666CA413672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F958D44-79BE-472E-9CDB-C666CA413672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F958D44-79BE-472E-9CDB-C666CA413672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F958D44-79BE-472E-9CDB-C666CA413672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA10EED7-D33A-45CB-89AB-307FC6DE0E83}
+	EndGlobalSection
+EndGlobal
